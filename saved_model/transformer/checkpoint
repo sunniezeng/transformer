@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:\\learn\\tensorflow_learn\\translation\\transformer\\saved_model\\transformer\\transformer_v2"
+all_model_checkpoint_paths: "E:\\learn\\tensorflow_learn\\translation\\transformer\\saved_model\\transformer\\transformer_v2"
